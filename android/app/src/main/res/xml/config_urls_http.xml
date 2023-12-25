@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Inclui um site http na exclusao de seguranca em conexoes de network -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">http://refeitorio.ipt.pt/</domain> <!-- Refeitorio -->
+    </domain-config>
+    <!--android:networkSecurityConfig="@xml/config_urls_http"-->
+</network-security-config>
