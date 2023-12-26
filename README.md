@@ -1,16 +1,12 @@
-# aplicativo_ipt
+# | $\textcolor{Red}{\text{Aplicativo IPT}}$
 
-A new Flutter project.
+<p align = "justify">
+  Aplicativo <b>Flutter</b> denvolvido como trabalho final da disciplina "Desenvolvimento de Aplicações para Dispositivos Movéis"
+  durante intercâmbio no Instituto Politécnico de Tomar (<b>IPT</b>), no campus da ESTA (<b>Escola Superior de Tecnologia de Abrantes</b>), em Portugal.
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## | $\textcolor{RedOrange}{\text{Relatório:}}$
+<p align = "justify">
+  Relatório do projeto com screenchots e descrição das janelas e funcionalidades do aplicativo. 
+</p>
