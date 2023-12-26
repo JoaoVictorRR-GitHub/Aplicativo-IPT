@@ -224,7 +224,7 @@ class Custom_Card_Informacao extends StatelessWidget {
   const Custom_Card_Informacao({super.key,
     this.icone          = const Icon(Icons.grain_sharp,  color: Colors.deepOrangeAccent),
     this.titulo         = "TÍTULO",
-    this.subtitulo      = "",
+    this.subtitulo,
     this.corCard        = Colors.white60,
     this.corCardTitulo  = Colors.deepPurpleAccent,
     this.margemTopo     = true,
@@ -233,7 +233,7 @@ class Custom_Card_Informacao extends StatelessWidget {
 
   final Icon icone;           // Icone do card.
   final String titulo;        // Titulo do card.
-  final String subtitulo;     // Subtitulo do card.
+  final String? subtitulo;    // Subtitulo do card.
   final Color corCard;        // Cor do card.
   final Color corCardTitulo;  // Cor do card do titulo.
   final bool margemTopo;      // Indica se o card vai ter uma margem do topo.
@@ -255,7 +255,8 @@ class Custom_Card_Informacao extends StatelessWidget {
               ListTile(
                 leading: icone,                               // Icone.
                 title: Text(titulo, style: styleTitle),       // Titulo.
-                subtitle: Text(subtitulo, style: styleBold),  // Subtitulo.
+                subtitle: subtitulo == null ? null
+                    : Text(subtitulo!, style: styleBold),     // Subtitulo.
               ),
             ),
             Container(
