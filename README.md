@@ -6,7 +6,7 @@
 
 
 ### | $\textcolor{Yellow}{\text{DETALHES:}}$
-> * [RELATÓRIO](/Relatorio%20Trabalho%20Final%20DADM%20[V.1.1.0].pdf)
+> * [RELATÓRIO](/Relatorio%20Trabalho%20Final%20[V.1.1.0].pdf)
 > * Relatório e instruções acerca do desenvolvimento do projeto do trabalho final.
 
 ---
