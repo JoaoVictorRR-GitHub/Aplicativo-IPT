@@ -1,7 +1,7 @@
 # | $\textcolor{Lime}{\text{Aplicativo IPT}}$
 
 <p align = "justify">
-    Aplicativo <b>Flutter</b> desenvolvido como trabalho da disciplina <b>Desenvolvimento de Aplicações para Dispositivos Movéis</b> no campus da <b>ESTA</b> (Escola Superior de Tecnologia de Abrantes), do <b>IPT</b> (Instituto Politécnico de Tomar).
+    Aplicativo <b>Flutter</b> desenvolvido como trabalho final da disciplina <b>Desenvolvimento de Aplicações para Dispositivos Movéis</b> no campus da <b>ESTA</b> (Escola Superior de Tecnologia de Abrantes), do <b>IPT</b> (Instituto Politécnico de Tomar).
 </p>
 
 
